@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    font-family: monospace;
+    color: blueviolet;
+    text-align: left;
+}
+
+.name_of_objects{
+    font-size: larger;
+}
+
+label{
+    font-size: larger;
+}
+
+.btn-default{
+background-color: black;
+font-size: x-large;
+color: blueviolet;
+}
